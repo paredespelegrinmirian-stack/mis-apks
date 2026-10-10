@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centro de APKs</title>
+    <style>
+        body { font-family: sans-serif; background: #1a1a1a; color: white; text-align: center; padding: 20px; }
+        h1 { color: #00a8e1; }
+        .container { max-width: 800px; margin: 0 auto; }
+        .btn {
+            display: block;
+            background: #2563eb;
+            color: white;
+            padding: 15px;
+            margin: 10px 0;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: bold;
+            font-size: 16px;
+            transition: background 0.3s;
+        }
+        .btn:hover { background: #1d4ed8; }
+        .warning { color: #fbbf24; font-size: 14px; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Centro de Descarga de APKs</h1>
+        <p>Selecciona la aplicación que deseas instalar:</p>
+        
+        <a href="ak47sports.apk" class="btn">AK47Sports 1.5</a>
+        <a href="alfatvlite.apk" class="btn">ALFATVLite</a>
+        <a href="avo.apk" class="btn">Avo</a>
+        <a href="base5.apk" class="btn">Base-5</a>
+        <a href="cystematv.apk" class="btn">Cystematv-3.0</a>
+        <a href="deluxetv.apk" class="btn">DELUXE TV 4.0</a>
+        <a href="dramabox.apk" class="btn">DramaBox (Premium)</a>
+        <a href="evotouch.apk" class="btn">Evotouch-AE</a>
+        <a href="freereels.apk" class="btn">FreeReels 2.4.70</a>
+        <a href="insttvplus.apk" class="btn">Insttvplus</a>
+        <a href="legacytv.apk" class="btn">LEGAZY TV</a>
+        <a href="lokura.apk" class="btn">LOKURA TV 4.0</a>
+        <a href="lotv.apk" class="btn">LOTV 1.6</a>
+        <a href="megatv.apk" class="btn">MegaTv</a>
+        <a href="mpdplayer.apk" class="btn">MPD DRM PLAYER v2.2 Mod</a>
+        <a href="mplayer.apk" class="btn">MPlayer</a>
+        <a href="nanotech.apk" class="btn">NANOTECHPLUS SPECIAL</a>
+        <a href="nerdtv.apk" class="btn">NerdTV Modern 0.1.15</a>
+        <a href="netgotv.apk" class="btn">Netgotv 3.1</a>
+        <a href="netshort.apk" class="btn">NetShort</a>
+        <a href="nexya.apk" class="btn">NEXYA</a>
+        <a href="passtv.apk" class="btn">passtv</a>
+        <a href="play1001.apk" class="btn">PLAY 1001</a>
+        <a href="projectox.apk" class="btn">ProjectoX 3.0.9.1</a>
+        <a href="superman.apk" class="btn">SUPERMAN TV 1.0.1</a>
+        <a href="twowolf.apk" class="btn">TWO-WOLF</a>
+        <a href="vix.apk" class="btn">VixPremium</a>
+        <a href="vuplayer.apk" class="btn">VU IPTV Player</a>
+
+        <p class="warning">Nota: Estas aplicaciones son para instalación manual. Bajo tu propia responsabilidad.</p>
+    </div>
+</body>
+</html>
